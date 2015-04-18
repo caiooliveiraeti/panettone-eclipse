@@ -59,7 +59,7 @@
             locationURI="popup:org.eclipse.ui.projectConfigure?after=additions">
          <command
                commandId="panettone-eclipse.addRemovePanettoneNature"
-               label="Disable Sample builder"
+               label="Disable Panettone builder"
                style="push">
             <visibleWhen
                   checkEnabled="false">
@@ -82,7 +82,7 @@
          </command>
          <command
                commandId="panettone-eclipse.addRemovePanettoneNature"
-               label="Enable Sample builder"
+               label="Enable Panettone builder"
                style="push">
             <visibleWhen
                   checkEnabled="false">
